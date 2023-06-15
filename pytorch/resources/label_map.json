@@ -1,0 +1,27 @@
+[
+    {
+        "name": "background",
+        "id": 0,
+        "display_name": "background"
+    },
+    {
+        "name": "person",
+        "id": 1,
+        "display_name": "person"
+    },
+    {
+        "name": "bicycle",
+        "id": 2,
+        "display_name": "bicycle"
+    },
+    {
+        "name": "car",
+        "id": 3,
+        "display_name": "car"
+    },
+    {
+        "name": "dog",
+        "id": 17,
+        "display_name": "dog"
+    }
+]

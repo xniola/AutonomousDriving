@@ -1,0 +1,20 @@
+item {
+    name: "person",
+    id: 1,
+    display_name: "person"
+},
+item {
+    name: "bicycle",
+    id: 2,
+    display_name: "bicycle"
+},
+item {
+    name: "car",
+    id: 3,
+    display_name: "car"
+},
+item {
+    name: "dog",
+    id: 17,
+    display_name: "dog"
+}

@@ -1,0 +1,7 @@
+/.vscode
+images/train/thermal_8_bit/*.jpeg
+images/val/thermal_8_bit/*.jpeg
+images/video/*.jpeg
+tensorflow/annotations/*.record-00000-of-00001
+/__pycache__
+jetson/out/*.mp4
